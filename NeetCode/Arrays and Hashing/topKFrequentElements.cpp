@@ -1,3 +1,6 @@
+//next time use priority queue
+//learn priority queue
+
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
